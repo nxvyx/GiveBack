@@ -1,8 +1,3 @@
-# GiveBack
-# NGO
-# VOLUNTEERING
-# GIVEBACK
-
 # GiveBack Project
 
 ## Introduction
@@ -36,7 +31,9 @@ GiveBack is a volunteering platform designed to connect individuals with NGOs an
 3. **Volunteer:** Engage in activities and make an impact.
 4. **Track Progress:** Use our tracking feature to log hours and see your impact.
 
----
+---# Contributions
+  Aanchal Mittal - xxxchall-17
+  Navya Jain - nxvyx
 
 ## Codebase Structure
 - **Frontend:** Built using React for an interactive user experience.
