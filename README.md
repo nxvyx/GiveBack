@@ -35,6 +35,7 @@ GiveBack is a volunteering platform designed to connect individuals with NGOs an
 # Contributions
   Aanchal Mittal - xxxchall-17
   Navya Jain - nxvyx
+  Shreeya Pandey - therealsheero
 
 ## Codebase Structure
 - **Frontend:** Built using React for an interactive user experience.
